@@ -244,4 +244,4 @@ MIT. See [`LICENSE`](../LICENSE).
 
 ---
 
-Built by **Jesse Jolly** &middot; [LinkedIn](https://linkedin.com/in/jessegjolly)
+Built by **Jesse Jolly** &middot; [LinkedIn](https://linkedin.com/in/jessegjolly) &middot; [jessejolly.com](https://jessejolly.com)
